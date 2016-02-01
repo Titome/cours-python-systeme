@@ -675,7 +675,7 @@ Comme vous le constatez, les "fichiers" que le noyau nous expose peuvent
 périphérique matériel ou d'autres choses encore… Je suppose que vous comprenez,
 maintenant, le potentiel des quatres appels que nous venons de voir !
 
-## L'interface haut niveau de Python (parce qu'il qui vous veut du bien)
+## L'interface haut niveau de Python (parce qu'il vous veut du bien)
 
 Dans « la vraie vie », on n'a pratiquement jamais besoin d'utiliser les appels
 système que nous venons d'évoquer en Python. Et pour cause ! Celui-ci expose au
@@ -710,7 +710,7 @@ lui apporte.
 
 ### Formatage des données textuelles
 
-Le mode texte besoin d'au moins deux paramètres pour fonctionner : l'encodage
+Le mode texte a besoin d'au moins deux paramètres pour fonctionner : l'encodage
 du fichier, et le délimiteur de fin de ligne, que l'on peut spécifier en
 argument de la builtin `open()`. Par défaut, Python utilisera ceux qui sont
 configurés sur le système. On peut retrouver l'encodage par défaut en nous
